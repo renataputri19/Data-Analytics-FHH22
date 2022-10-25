@@ -1,4 +1,6 @@
 # Analisis Pengaruh Realisasi APBD Terhadap Indeks Pembangunan Indonesia Tahun 2021
 
+Anggaran merupakan pernyataan mengenai estimasi kinerja yang hendak dicapai selama periode waktu tertentu yang dinyatakan dalam ukuran finansial dan menyatakan berapa biaya atas rencana-rencana yang dibuat (pengeluran/belanja). Anggaran Pendapatan dan Belanja Daerah adalah keuangan tahunan pemerintah daerah yang disusun berdasarkan ketentuan perundang-undangan yang berlaku, dengan berbagai pertimbangan agar penyusunan, pemantauan, pengendalian dan evaluasi mudah dilakukan. Salah satu fungsi dari APBD adalah meningkatkan kualitas daerah melalui peningkatan sumber daya manusia. Pengukuran peningkatan kualitas SDM di Indonesia diukur melalui 3 indikator yang tercakup dalam Indeks Pembangunan Manusia, yaitu kesehatan, pendidikan, dan pengeluaran per kapita. Sebuah daerah dikatakan maju apabila memiliki nilai IPM yang tinggi. Peningkatan IPM dapat dilakukan dengan peningkatan kualitas pembangunan dan infrastruktur di bidang kesehatan dan pendidikan. Penelitian ini bertujuan untuk melihat pengaruh realisasi anggaran APBD terhadap indikator IPM di setiap provinsi di Indonesia pada masa Pandemi COVID 19.
 
+Untuk lebih detail: Full Paper
 
